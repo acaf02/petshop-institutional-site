@@ -7,6 +7,7 @@ import petfood from "./pet-food.png"
 import service from "./service.png"
 import transporte from "./transporte.png"
 import veterinario from "./veterinario.png"
+import contact from "./contact.png"
 
 
 export const assets = {
@@ -18,5 +19,6 @@ export const assets = {
     petfood,
     service,
     transporte,
-    veterinario
+    veterinario,
+    contact
     }
