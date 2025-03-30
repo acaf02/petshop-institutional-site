@@ -5,18 +5,18 @@ import { Link } from "react-router-dom";
 const Footer = () => {
     return (
         <div>
-            <div className="flex bg-custom-pink md:pl-38 flex-col sm:grid lg:grid-cols-[2fr_2fr] items-center mt-6 text-sm pb-10 sm:justify-center">
-                <div className="my-5 flex flex justify-center sm:justify-start flex-row gap-20">
-                    <div className="pt-2 pl-10 flex flex-row">
+            <div className="flex bg-custom-pink md:pl-38 flex-col sm:grid lg:grid-cols-[2.5fr_2fr] items-center mt-6 text-sm pb-10 sm:justify-center">
+                <div className="my-5 flex flex justify-center md:justify-start flex-row gap-28">
+                    <div className="pt-2 flex flex-col md:flex-row items-center" >
                         {" "}
                         <Link to="/">
                             <img
                                 src={assets.logo}
-                                className="w-28 h-auto pt-2"
+                                className="w-44 h-auto pt-2 pr-10"
                                 alt="about us"
                             />
                         </Link>
-                        <p className='w-full md:w-2/3 pl-10 pt-6 md:pt-10 text-black'>
+                        <p className='w-full md:w-2/4 pt-6 px-8 md:px-0 text-black'>
                             A nome nasceu da paixão pelos pets e do desejo de transformar o cuidado com os animais em uma experiência cheia de carinho, confiança e bem-estar.
                         </p>
                     </div>
