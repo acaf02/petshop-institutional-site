@@ -26,7 +26,7 @@ const About = () => {
 
                     <div className="py-6">
                         <Link to="/about">
-                            <button className="bg-black text-white font-medium py-2 px-6 md:px-12 rounded-4xl hover:bg-purple-700 transition">
+                            <button className="bg-black text-white font-medium py-2 px-6 md:px-12 rounded-4xl hover:bg-purple-700 cursor-pointer transition">
                                 SAIBA MAIS
                             </button>
                         </Link>
