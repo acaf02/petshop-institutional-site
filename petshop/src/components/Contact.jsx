@@ -26,7 +26,7 @@ export default function ContactSection() {
         </div>
       </div>
       <div className="md:w-1/2 h-full">
-        <img src={assets.contact} alt="Contato" className="w-full h-1/2 object-cover rounded-lg shadow-md" />
+        <img src={assets.contact} alt="Contato" className="w-full lg:h-1/2 object-cover rounded-lg shadow-md" />
       </div>
     </section>
   );
