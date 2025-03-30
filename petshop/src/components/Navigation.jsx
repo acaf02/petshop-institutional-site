@@ -28,7 +28,7 @@ const Navigation = () => {
     );
 
 
-    const height = useTransform(scrollYSmooth, [0, 100], [120, 60]);
+    const height = useTransform(scrollYSmooth, [0, 100], [120, 80]);
 
     const toggleDrawer = (isOpen) => () => setOpen(isOpen);
 
@@ -97,7 +97,7 @@ const Navigation = () => {
             className="fixed top-0 left-0 w-full flex items-center px-8 transition-all duration-300 z-50"
         >
             <Link to="/" className="w-full sm:w-auto text-center sm:text-left">
-                <img src={assets.logo} className="h-12 w-12" alt="Logo" />
+                <img src={assets.logo} className="h-20 w-20" alt="Logo" />
             </Link>
 
             <ul className="hidden sm:flex gap-5 text-xl text-black absolute left-1/2 transform -translate-x-1/2">
@@ -120,7 +120,7 @@ const Navigation = () => {
 
             <BiMenuAltRight
                 onClick={toggleDrawer(true)}
-                className="w-10 h-10 cursor-pointer text-white sm:hidden"
+                className="w-10 h-10 cursor-pointer text-black sm:hidden"
             />
             <Drawer anchor="right" open={open} onClose={toggleDrawer(false)}>
                 <DrawerList />
