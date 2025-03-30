@@ -1,22 +1,33 @@
-import React from 'react';
+import React from "react";
+import { Link } from "react-router-dom";  // Importe o Link
 import { assets } from "../assets/assets";
 
 const Hero = () => {
-    return (
-        <div id="content" className="relative w-full h-screen overflow-hidden">
-            <div className="hero w-full h-full relative">
-                <video
-                    className="absolute top-0 left-0 w-full h-full object-cover max-w-full"
-                    loop
-                    autoPlay
-                    muted
-                >
-                    <source src={assets.hero} type="video/mp4" />
-                    Your browser does not support the video tag.
-                </video>
-            </div>
-        </div>
-    );
+  return (
+    <div>
+      {/* Hero */}
+      <div
+        style={{
+          margin: "auto",
+          maxWidth: "100%",
+          position: "relative",
+        }}
+      >
+        <Link to="/about">
+          <video
+            className="w-full h-auto" 
+            loop 
+            autoPlay 
+            muted
+            playsInline
+          >
+            <source src={assets.hero} type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+        </Link>
+      </div>
+    </div>
+  );
 };
 
 export default Hero;
