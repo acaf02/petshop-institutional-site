@@ -66,10 +66,10 @@ const Navbar = () => {
     );
 
     return (
-        <div className="fixed top-0 left-0 w-full bg-custom-pink shadow-md py-3 px-8 flex items-center justify-between z-50">
+        <div className="fixed top-0 left-0 w-full bg-custom-pink shadow-md px-8 flex items-center justify-between z-50">
             {/* Logo */}
             <Link to="/" className="flex-shrink-0">
-                <img src={assets.logo} className="h-12 w-12" alt="Logo" />
+                <img src={assets.logo} className="h-20 w-20" alt="Logo" />
             </Link>
 
             {/* Itens do Menu Centralizados */}
