@@ -27,10 +27,10 @@ The project is still under development and the next updates will focus on the fo
 - [x] Initial website design and layout
 - [x] Hero section
 - [x] About section
-- [ ] Contact section
+- [x] Contact section
 - [ ] Service section
-- [ ] About page
-- [ ] Contact page
+- [x] About page
+- [x] Contact page
 - [ ] Service page
 
 ---
@@ -72,7 +72,7 @@ npm install
 
 ## 🚀 Usage
 
-This project provides core functionality such as [explain the core usage of the application, such as user registration, data visualization, etc.]. Below are the basic steps to get started with the project:
+This project provides essential features such as viewing the services offered by the petshop, contact details, and additional information about the establishment. Below are the basic steps to get started with the project:
 
 Once you have installed the project, you can run it with the following command:
 ```bash

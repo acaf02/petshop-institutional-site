@@ -24,12 +24,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações se concen
 
 - [x] Design no Figma
 - [x] Design e layout iniciais do site
-- [ ] Seção Hero
+- [x] Seção Hero
 - [x] Seção Sobre
-- [ ] Seção Contato
-- [ ] Seção Serviços
-- [ ] Página Sobre
-- [ ] Página Contato
+- [x] Seção Contato
+- [x] Seção Serviços
+- [x] Página Sobre
+- [x] Página Contato
 - [ ] Página Serviços
 
 ---
@@ -70,7 +70,7 @@ npm install
 
 ## 🚀 Usage
 
-Este projeto oferece funcionalidades principais como [explique o uso principal da aplicação, como cadastro de usuários, visualização de dados, etc.]. Abaixo estão os passos básicos para começar com o projeto:
+Este projeto proporciona funcionalidades essenciais, como a visualização dos serviços oferecidos pelo petshop, acesso aos dados de contato e informações detalhadas sobre o estabelecimento. A seguir, apresentamos os passos iniciais para começar a utilizar o projeto:
 
 Depois de instalar o projeto, você pode executá-lo com o seguinte comando:
 ```bash
