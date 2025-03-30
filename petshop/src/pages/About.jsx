@@ -33,7 +33,7 @@ const About = () => {
       <div className="mx-auto text-center px-6 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <img src={assets.about1} className=' h-auto object-cover rounded-lg shadow-lg' alt="Cachorro feliz" />
         <p className="text-xl text-gray-700 leading-relaxed">
-          Na Lumus Solem Petshop, acreditamos que cuidar de um pet vai muito além de oferecer produtos e serviços — é sobre amor, confiança e bem-estar. Nossa loja nasceu do carinho e da dedicação aos animais, com o propósito de oferecer tudo o que seu pet precisa para viver com saúde, alegria e qualidade de vida.
+        Pet Encanto Petshop, acreditamos que cuidar de um pet vai muito além de oferecer produtos e serviços — é sobre amor, confiança e bem-estar. Nossa loja nasceu do carinho e da dedicação aos animais, com o propósito de oferecer tudo o que seu pet precisa para viver com saúde, alegria e qualidade de vida.
         </p>
         <div>
           <p className="text-xl text-gray-700 leading-relaxed mb-4">

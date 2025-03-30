@@ -21,7 +21,7 @@ const About = () => {
 
                 <div className="w-full md:w-2/3 flex flex-col items-start">
                     <p className="text-base text-gray-700">
-                        Na Lumus Solem Petshop, acreditamos que cuidar de um pet vai muito além de oferecer produtos e serviços — é sobre amor, confiança e bem-estar. Nossa loja nasceu do carinho e da dedicação aos animais, com o propósito de oferecer tudo o que seu pet precisa para viver com saúde, alegria e qualidade de vida.
+                        No Pet Encanto Petshop, acreditamos que cuidar de um pet vai muito além de oferecer produtos e serviços — é sobre amor, confiança e bem-estar. Nossa loja nasceu do carinho e da dedicação aos animais, com o propósito de oferecer tudo o que seu pet precisa para viver com saúde, alegria e qualidade de vida.
                     </p>
 
                     <div className="py-6">
