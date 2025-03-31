@@ -17,7 +17,7 @@ const Footer = () => {
                             />
                         </Link>
                         <p className='w-full md:w-2/4 pt-6 px-8 md:px-0 text-black'>
-                            o nome nasceu da paixão pelos pets e do desejo de transformar o cuidado com os animais em uma experiência cheia de carinho, confiança e bem-estar.
+                            O nome nasceu da paixão pelos pets e do desejo de transformar o cuidado com os animais em uma experiência cheia de carinho, confiança e bem-estar.
                         </p>
                     </div>
                 </div>
