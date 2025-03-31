@@ -50,7 +50,7 @@ const About = () => {
       </div>
       <div className="flex flex-col md:flex-row justify-center items-center gap-8 pb-6">
         {data.map((item, index) => (
-          <Card key={index} sx={{ width: '100%', maxWidth: 400, borderRadius: 2, boxShadow: 3, px: 2, py:2 }}>
+          <Card key={index} sx={{ width: '100%', maxWidth: 400, height: 300, borderRadius: 2, boxShadow: 3, px: 2, py:2 }}>
             <CardContent className="flex flex-col items-center text-center space-y-6">
               {item.icon}
               <Typography variant="h4" component="h4" sx={{ fontWeight: 'bold', textAlign: 'center', pb: 2 }}>
