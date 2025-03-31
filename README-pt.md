@@ -30,7 +30,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações se concen
 - [x] Seção Serviços
 - [x] Página Sobre
 - [x] Página Contato
-- [ ] Página Serviços
+- [x] Página Serviços
+- [ ] Feedback do Cliente
 
 ---
 

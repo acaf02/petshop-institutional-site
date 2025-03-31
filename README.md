@@ -28,10 +28,11 @@ The project is still under development and the next updates will focus on the fo
 - [x] Hero section
 - [x] About section
 - [x] Contact section
-- [ ] Service section
+- [x] Service section
 - [x] About page
 - [x] Contact page
-- [ ] Service page
+- [x] Service page
+- [ ] Custumer Feedback
 
 ---
 
