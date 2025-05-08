@@ -57,7 +57,7 @@ Make sure you have the following items installed in your environment:
 
 ```bash
 git clone https://github.com/acaf02/petshop-institutional-site.git
-cd project
+cd petshop
 yarn install
 
 ```
@@ -66,7 +66,7 @@ yarn install
 
 ```bash
 git clone https://github.com/acaf02/petshop-institutional-site.git
-cd project
+cd petshop
 npm install
 
 ```
