@@ -97,6 +97,6 @@ Open a pull request to the original repository.<br>
 
 ## 📜 License
 
-This project is under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### ⭐ Did you like the project? Leave a star to help the community!
