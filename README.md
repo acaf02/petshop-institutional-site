@@ -19,20 +19,7 @@ The motivation behind this project is to create an accessible and informative on
 ---
 ## 🟢 Project Status
 
-This project is in progress.
-
-The project is still under development and the next updates will focus on the following tasks:
-
-- [x] Figma design
-- [x] Initial website design and layout
-- [x] Hero section
-- [x] About section
-- [x] Contact section
-- [x] Service section
-- [x] About page
-- [x] Contact page
-- [x] Service page
-- [ ] Custumer Feedback
+This project is finish.
 
 ---
 

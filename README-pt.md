@@ -18,20 +18,7 @@ A motivação por trás deste projeto é criar uma plataforma online acessível 
 ---
 ## 🟢 Status do Projeto
 
-Este projeto está em andamento.
-
-O projeto ainda está em desenvolvimento e as próximas atualizações se concentrarão nas seguintes tarefas:
-
-- [x] Design no Figma
-- [x] Design e layout iniciais do site
-- [x] Seção Hero
-- [x] Seção Sobre
-- [x] Seção Contato
-- [x] Seção Serviços
-- [x] Página Sobre
-- [x] Página Contato
-- [x] Página Serviços
-- [ ] Feedback do Cliente
+Este projeto está concluído.
 
 ---
 
@@ -56,7 +43,7 @@ Certifique-se de que os seguintes itens estão instalados no seu ambiente:
 
 ```bash
 git clone https://github.com/acaf02/petshop-institutional-site.git
-cd projeto
+cd petshop
 yarn install
 ```
 
@@ -64,7 +51,7 @@ yarn install
 
 ```bash
 git clone https://github.com/acaf02/petshop-institutional-site.git
-cd projeto
+cd petshop
 npm install
 
 ```
